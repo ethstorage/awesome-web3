@@ -19,7 +19,7 @@ A list of awesome Web3 apps, NFTs, libraries, tools and more.
     - [QRobot](https://w3-qrobot.w3eth.io/) - An NFT collection of cute robots that can be minted freely. All the metadata including the images are deployed on EthStorage.
     - [W3Music](https://w3-music.w3eth.io/#/) - Fully On-Chain Music NFT.
   - Libraries
-    - [EthStorage-sdk](https://github.com/ethstorage/ethstorage-sdk) - EthStorage SDK, used for uploading and downloading blobs.
+    - [EthStorage-sdk](https://github.com/ethstorage/ethstorage-sdk) - EthStorage SDK, used for uploading and downloading files.
   - Tools
     - [Eth-Blob-Uploader](https://github.com/ethstorage/eth-blob-uploader) - ETH blobs upload tool.
     - [EthFS-Cli](https://github.com/ethstorage/ethfs-cli) - EthStorage file management tool.
