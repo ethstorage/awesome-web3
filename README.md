@@ -11,5 +11,7 @@ A curated list of awesome Web3 apps, libraries, tools and more.
   - [DBlog](https://w3-blog.w3eth.io/) - A decentralized blog.
   - [Git3](https://github.com/git3protocol/git3-cli) - A decentralized Git hosting protocol for Web3.
   - [W3 Uniswap](https://app-uniswap-org.w3eth.io/#/swap?chain=mainnet) - A decentralized uniswap web page.
-  - [W3 ENS](https://app-ens-domain.w3eth.io/) - A decentralized ENS web page."
+  - [W3 ENS](https://app-ens-domain.w3eth.io/) - A decentralized ENS web page.
+  - [Odin](https://github.com/anupsv/odin/) - Guarding the Gateway to Web3 Valhalla solves.
+  - [BeFit](https://github.com/WilliamUW/ETHDenver2024) - BeFit revolutionizes fitness motivation by blending the spontaneity of BeReal with the accountability and rewards of exercising.
 
