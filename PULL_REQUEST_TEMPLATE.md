@@ -5,13 +5,9 @@
 Checklist:
 
 - [ ] I've read and understood [Contributing Guidelines](CONTRIBUTING.md).
-
-[//]: # (- [ ] I've added the new resource at the end of its section.)
-
-[//]: # (- [ ] This resource is out there for a while, and actively maintained.)
-
-[//]: # (- [ ] This resource is popular enough and has at least a few hundred stars on GitHub.)
-
+- [ ] I've added the new resource at the end of its section.
+- [ ] This resource is out there for a while, and actively maintained.
+- [ ] This resource is popular enough and has at least a few hundred stars on GitHub.
 ---
 
 <!-- Please explain what this new addition is about, and why it should be included here with your own words. -->
