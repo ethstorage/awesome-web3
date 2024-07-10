@@ -8,6 +8,7 @@ A list of awesome Web3 apps, NFTs, libraries, tools and more.
   - [W3Mail](https://w3-email.w3eth.io/) - Fully decentralized email service on EthStorage.
   - [Git3](https://github.com/git3protocol/git3-cli) - A decentralized Git hosting protocol for Web3.
   - [BeFit](https://github.com/WilliamUW/ETHDenver2024) - BeFit revolutionizes fitness motivation by blending the spontaneity of BeReal with the accountability and rewards of exercising.
+  - [Web3realtime Data](https://github.com/nishuzumi/web3realtime_data) - Web3 Realtime Data Website.
 - Websites
   - [Web3 Uniswap](https://app-uniswap-org.w3eth.io/) - A decentralized uniswap frontend.
   - [Web3 ENS](https://app-ens-domain.w3eth.io/) - A decentralized ENS frontend.
