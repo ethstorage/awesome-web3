@@ -8,9 +8,11 @@ A list of awesome Web3 apps, NFTs, libraries, tools and more.
   - [W3Mail](https://w3-email.w3eth.io/) - Fully decentralized email service on EthStorage.
   - [Git3](https://github.com/git3protocol/git3-cli) - A decentralized Git hosting protocol for Web3.
   - [BeFit](https://github.com/WilliamUW/ETHDenver2024) - BeFit revolutionizes fitness motivation by blending the spontaneity of BeReal with the accountability and rewards of exercising.
+  - [Web3realtime Data](https://github.com/git3protocol/git3-cli) - Web3 Realtime Data Website.
 - Websites
   - [Web3 Uniswap](https://app-uniswap-org.w3eth.io/) - A decentralized uniswap frontend.
   - [Web3 ENS](https://app-ens-domain.w3eth.io/) - A decentralized ENS frontend.
+  - [Realtime Token Price](https://0xccd58c48f12dd1d08250197cb0d8b865bda02064.3333.w3link.io/index.html) - A Realtime Token Price Website.
 - Socials
   - [Vitalik Blog](https://vitalikblog.w3eth.io/) - A blog fully built on the arbitrum-nova chain by Vitalik.
   - [DBlog](https://w3-blog.w3eth.io/) - Fully decentralized blog platform. The frontend and contents are all deployed on EthStorage.
