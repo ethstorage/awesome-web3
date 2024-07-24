@@ -2,6 +2,8 @@
 
 A list of awesome Web3 apps, NFTs, libraries, tools and more.
 
+- Hello World
+  - [Hello Web3://](https://github.com/ethstorage/hello-web3) - Web3 Demo Website.
 - Apps
   - [W3Box](https://w3-box.w3eth.io/) - The file hosting service on EthStorage.
   - [W3Drive](https://w3-drive.w3eth.io/) - Your Private Hard Drive on Blockchain.
@@ -9,7 +11,6 @@ A list of awesome Web3 apps, NFTs, libraries, tools and more.
   - [Git3](https://github.com/git3protocol/git3-cli) - A decentralized Git hosting protocol for Web3.
   - [BeFit](https://github.com/WilliamUW/ETHDenver2024) - BeFit revolutionizes fitness motivation by blending the spontaneity of BeReal with the accountability and rewards of exercising.
   - [Web3realtime Data](https://github.com/nishuzumi/web3realtime_data) - Web3 Realtime Data Website.
-  - [Hello Web3://](https://github.com/ethstorage/hello-web3) - Web3 Demo Website.
 - Websites
   - [Web3 Uniswap](https://app-uniswap-org.w3eth.io/) - A decentralized uniswap frontend.
   - [Web3 ENS](https://app-ens-domain.w3eth.io/) - A decentralized ENS frontend.
