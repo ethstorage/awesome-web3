@@ -2,6 +2,8 @@
 
 A list of awesome Web3 apps, NFTs, libraries, tools and more.
 
+- Hello World
+  - [Hello Web3://](https://github.com/ethstorage/hello-web3) - Web3 Demo Website.
 - Apps
   - [W3Box](https://w3-box.w3eth.io/) - The file hosting service on EthStorage.
   - [W3Drive](https://w3-drive.w3eth.io/) - Your Private Hard Drive on Blockchain.
